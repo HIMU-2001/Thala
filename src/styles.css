@@ -1,12 +1,13 @@
 /* src/styles.css */
 
-@import url("https://fonts.googleapis.com/css2?family=Figtree&family=Rubik+Doodle+Shadow&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans&display=swap');
+
 
 body {
   margin: 0;
   padding: 0;
-  background: url("https://img.freepik.com/free-vector/background-template-with-mandala-pattern-design_1308-44444.jpg?w=1060&t=st=1703517660~exp=1703518260~hmac=e2e07d966c2f7cbf9d28536a9360c61c31895b7c322dda1089e19a69e09d3594") center/600% no-repeat; /* Replace 'your-background-image-url.jpg' with the actual URL */
-  font-family: "Figtree", sans-serif;
+  background: url("https://img.freepik.com/free-vector/background-template-with-mandala-pattern-design_1308-44444.jpg?w=1060&t=st=1703517660~exp=1703518260~hmac=e2e07d966c2f7cbf9d28536a9360c61c31895b7c322dda1089e19a69e09d3594") center/800% no-repeat; /* Replace 'your-background-image-url.jpg' with the actual URL */
+  font-family: "Playpen Sans", sans-serif;
   height: 100%;
   width: 100%;
   overflow: hidden; /* Prevent scrollbars caused by background image */

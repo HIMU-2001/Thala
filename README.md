@@ -6,7 +6,7 @@ Thala For Reason is a fun project inspired by the legendary MS Dhoni, also known
 
 ## Demo
 
-Check out the project live: [Thala For Reason]()
+Check out the project live: [Thala For Reason](https://thala-uh4i.onrender.com)
 
 ## Installation
 
