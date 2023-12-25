@@ -49,7 +49,7 @@ Follow these steps to set up and run the project locally:
    The project will be available at `http://localhost:8080` by default.
 
    
-![Thala For Reason](https://github.com/subh05sus/ThalaForReason/assets/116567041/403f2abc-ef7a-4081-949a-1f774f2129e7)
+![Screenshot (1470)](https://github.com/HIMU-2001/Thala/assets/100105826/869787c6-3185-4e8d-ac35-1b6b75132099)
 
 ## Contributing
 
